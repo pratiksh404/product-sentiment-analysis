@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "planar-momentum-340307",
+  "private_key_id": "1a709459c6387885ba156ffe9044d82f5f7f3600",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyXI6IxvuMzyC/\nQK4IDFGD29TDTTnCv/WCvuYfY/bhxRG17qlWp7BzDiEw35EjpIUPjOLpZ0aa8QL6\nl7Nf2l2NV4bS6VzmKkP1+lDk2xFs5bmTrxr0p2lKe6oX5o9GVKXJPVd4kDFW0RRj\n1vFvhs0B6gf+irgfw9zII9MIevMMfh0sO1vjcWeGipmDjiOEd9cVooRlNalqXFpt\nkhi3LRpFR8+DX21e+FupT/rBNFJtxjfFNUiQGz84wZCp7fv2NhDfAM+i0zfGypY3\nSDjcAzwTxMeTZkxIuBA69wABEfrEsCrK9j+TXQCBEBH/Ogh7KLeYLnY44Rf4yKKk\nXHjIONlVAgMBAAECggEAArS1Q91y8QSubEBcs4oOTYgO/wSDqRD09k4TmyvO0ceF\n2IL9pi8mleRDvCRUJRyImT8LrTtQHqcj4q3c/ooHS87lYHtCWcqP2+I3inVJWyPU\nECnCqK4GgqcEIlcw2sILftVTp6RWX0kOPGKFKKo8n3gPtXygxPiZd57Vg4Yr/EdB\n97Pyx4RTYPz7zNyb4RTSFPPVyNRg990t9uW+EKeXmicdwFTz+kyb//KnLblUzcxr\n3A7BxWNCQS5mOSEu1oGXuJy70PIMoO4fZVVqU5JtV/MGpjGO53YKTwobK+gPMsxQ\n1zMeuaFh0to25UTXDGEGNp6xvJ3EAmuoOYMEJNFUOQKBgQD3mDF1PZcW+Iz99E69\nnlgBs7kTaUyn3IqYN7+pa5Kiq39PoVU1h66Mjoto8z6dAJ1KFYQllBUF/XvpX50t\nD5yHDvwenssz1+KFflu3+UQEocNWpF2kVtoao6MUhZR20+Q2f7RiKCTw+1FYtjqg\nRsldcA26ltiJTflAwFZppFHPzQKBgQC4aquacUy6K2k5f9J8caCYnHIaPCyEnQl7\npAjmyvONvs3d8OvR8UV7y30mh/ynS8IWsgsrkqSJlLT5WtGOi9sSrNHLCh3h0oTZ\n9GLWwj017qjoJ7DEAVSGJVmoqbaFM0mRrMnFBb56MA7+bEa2Oql7l5OKsjCQKgbl\ne/CE+vhXqQKBgQDYuKIKAng/Bh67p95IgdJ84ujMQe50PEogRSQB0wROWRkeBZTF\nP1ec9qS2n7wdx0zmbQD3t6/TR3bv5t54c+LKIWa0EsDBR2Wi/eCgn5JXD5UhQMwq\nrk9I5BU6QFac0IpA3fVxubvkJ8ejhBa69lsJ66xIuAMf5F2ZvQGmhMuLvQKBgGOD\nxGhJ/XJ03IpXrJjUpCnWOkhn8kn5h9V9dgQ8vmLd9K9wQ4D95lXgP/+b4D3SxsCC\ngT6ZGkrXwTTRykVWuPgB5A/hvLBQbrpCg1eKZ4eD6wej62JJqXfeDdzTABguzeNb\nT2IPMHM1HdIzUZEiZLS53bc5YrVYyHHriKXp3DtJAoGAYv71QKOECzHNFmIZB+j9\ndAfIK+sOziPPFhlHxv4rUFoq4Fgen9KitI3Ex0wP5xAb2292eyq1GIseD/MZL1dR\nJvYdIUUE6F9qR3BorxpGHAldrtWof4hufTCM6duLojSbUzQwLjRb7m7dGRJwacIk\n82YujuHeGY4fn6SN3qmChp4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sentiment-analysis-service@planar-momentum-340307.iam.gserviceaccount.com",
+  "client_id": "116586386055143614699",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sentiment-analysis-service%40planar-momentum-340307.iam.gserviceaccount.com"
+}
